@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "Jika Anda memakai perangkat lunak ini dalam karya ilmiah, mohon kutip sebagai berikut."
+type: software
+title: "Decision Tree Calculator"
+abstract: "Kalkulator pohon keputusan berbasis browser: simpul keputusan, peluang, dan akhir; rollback nilai harapan; utilitas eksponensial dan certainty equivalent; profil risiko; analisis sensitivitas satu arah, tornado, spider, dan dua arah; EVPI, revisi Bayes, dan EVSI; serta laporan PDF, Word, dan Excel dengan rumus."
+version: "2.0.0"
+date-released: "2026-10-18"
+license: MIT
+url: "https://edgarcia-id.github.io/decision-tree-calculator-v2/"
+repository-code: "https://github.com/edgarcia-id/decision-tree-calculator-v2"
+authors:
+  - family-names: "Tarigan"
+    given-names: "Alfredo Garcia Elbarta"
+    orcid: "https://orcid.org/0009-0001-4549-5129"
+keywords:
+  - "decision tree"
+  - "decision analysis"
+  - "expected monetary value"
+  - "expected value of perfect information"
+  - "expected value of sample information"
+  - "sensitivity analysis"
+  - "decision support system"
